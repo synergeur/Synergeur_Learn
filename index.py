@@ -32,3 +32,15 @@ h = {
 i = None
 
 print(type(a),type(b),type(c),type(d),type(e),type(f),type(g),type(h),type(i))
+
+condition = False
+nombre = 500
+
+if not condition and nombre != 0:
+    print("Condition 1 atteinte")
+elif nombre == 500 or nombre == 600:
+    print("Nombre egal a 500")
+else:
+    print("Condition 1 non atteinte")
+if nombre:
+    print("Condition 2 atteinte")

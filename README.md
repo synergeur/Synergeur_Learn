@@ -11,10 +11,12 @@ Dans ce répertoire, vous trouverez une collection de notes, de morceaux de code
 - **Programming Languages / Langages de Programmation**: 
   - Python
   - Jupyter note book
+  - SQL
   - ...
 
 - **Data Science / Science des Données**:
   - Data Visualization
+  - SQL data Management
   - ...
 
 
